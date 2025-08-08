@@ -1,2 +1,2 @@
-# SubOut
+# SubFlow
 subscription manager
