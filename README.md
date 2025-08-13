@@ -1,2 +1,2 @@
-# SubFlow
+# Subview
 subscription manager
